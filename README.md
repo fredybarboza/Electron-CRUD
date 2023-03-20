@@ -1,4 +1,4 @@
-#ELECTRON-CRUD
+# ELECTRON-CRUD
 
 This project was created for learning purposes, and it is a desktop application developed with Electron that allows performing CRUD operations on a MySQL database. The application uses concepts such as inter-process communication and preload script to improve efficiency and security.
 
