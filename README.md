@@ -4,12 +4,12 @@ This project was created for learning purposes, and it is a desktop application 
 
 To set up and run the application, follow the steps below:
 
-1. Import the db.sql file into your database management system.
+1. Import the db.sql file into your database management system. <br>
 This file contains the structure of the database required for the application to function properly.
 
-2. Run the command: npm install
+2. Run the command: npm install <br>
 This command will install all the dependencies required for the application.
 
-3. Run the command: npm start
+3. Run the command: npm start <br>
 This command will start the desktop application. From this point on, you can start using the application and perform CRUD operations on the MySQL database.
 
